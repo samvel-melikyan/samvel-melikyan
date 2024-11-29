@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Samvel, QA automation engineer. 
+I'm Samvel, **QA automation engineer**. 
 Testing is an essential part of development and for me, as a software test engineer, it is a great privilege to carry such a responsibility and ofcourse it is a big hook on me to grow and multipy my skills.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,6 +60,14 @@ Testing is an essential part of development and for me, as a software test engin
       </th>
       <th>
         📘  Basic
+      </th>
+    </tr>
+     <tr>
+      <th>
+          Testing
+      </th>
+      <th>
+       📗  Advanced  
       </th>
     </tr>
   </table>
