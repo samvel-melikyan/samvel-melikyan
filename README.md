@@ -21,7 +21,7 @@ Testing is an essential part of development and for me, as a software test engin
        📗  Advanced  
       </th>
     </tr>
-        <tr>
+    <tr>
       <th>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>  <br/>
       </th>
@@ -29,7 +29,15 @@ Testing is an essential part of development and for me, as a software test engin
         📗  Advanced  
       </th>
     </tr>
-        <tr>
+    <tr>
+      <th>
+          Testing
+      </th>
+      <th>
+       📗  Advanced  
+      </th>
+    </tr>
+    <tr>
       <th>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>  <br/>
       </th>
@@ -37,7 +45,7 @@ Testing is an essential part of development and for me, as a software test engin
         📘  Basic  
       </th>
     </tr>
-        <tr>
+    <tr>
       <th>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>  <br/>
       </th>
@@ -45,7 +53,7 @@ Testing is an essential part of development and for me, as a software test engin
         📘  Basic  
       </th>
     </tr>
-        <tr>
+    <tr>
       <th>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>  <br/>
       </th>
@@ -54,7 +62,7 @@ Testing is an essential part of development and for me, as a software test engin
       </th>
     </tr>
     </tr>
-        <tr>
+    <tr>
       <th>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>      
       </th>
@@ -62,14 +70,7 @@ Testing is an essential part of development and for me, as a software test engin
         📘  Basic
       </th>
     </tr>
-     <tr>
-      <th>
-          Testing
-      </th>
-      <th>
-       📗  Advanced  
-      </th>
-    </tr>
+
   </table>
 </div>
 
