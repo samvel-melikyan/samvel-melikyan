@@ -31,14 +31,6 @@ Testing is an essential part of development and for me, as a software test engin
     </tr>
     <tr>
       <th>
-          Testing
-      </th>
-      <th>
-       📗  Advanced  
-      </th>
-    </tr>
-    <tr>
-      <th>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>  <br/>
       </th>
       <th>
