@@ -119,7 +119,6 @@ Testing is an essential part of development and for me, as a software test engin
   </table>
 </div>
 
-
 <h3 align="left">You can contact me with</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/samvel-melikyan-qa/" >
