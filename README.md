@@ -131,6 +131,9 @@ Testing is an essential part of development and for me, as a software test engin
   <a href="https://t.me/MelikyanSamvel" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
+  <a href="samvel.melikyan.eng@gmail.com" >
+    <img src="https://static-00.iconduck.com/assets.00/mail-icon-1024x1024-lf56uwrj.png" width="52" height="40" alt="telegram logo" />
+  </a>
  </div>
 
 
