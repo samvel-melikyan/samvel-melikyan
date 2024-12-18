@@ -27,14 +27,12 @@ Testing is an essential part of development and for me, as a software test engin
       <th>
        📗  Advanced  
       </th>
-
       <th>
        🔎 API  
       </th>
       <th>
        📗  Advanced  
       </th
-      
     </tr>
     <tr>
       <th>
@@ -43,14 +41,12 @@ Testing is an essential part of development and for me, as a software test engin
       <th>
         📗  Advanced  
       </th>
-
       <th>
        🔎 MOBILE  
       </th>
       <th>
        📘  Basic  
       </th
-      
     </tr>
     <tr>
       <th>
