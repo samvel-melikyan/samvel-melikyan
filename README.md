@@ -2,12 +2,13 @@
 I'm Samvel, **QA automation engineer**. 
 Testing is an essential part of development and for me, as a software test engineer, it is a great privilege to carry such a responsibility and ofcourse it is a big hook on me to grow and multipy my skills.
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+
 <div align="left"> 
-  <table align="left">
+  <h3 align="left">🛠 Languages and Tools:</h3>
+  <table>
     <tr>
       <th>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
       </th>
       <th>
        📗  Advanced  
@@ -62,12 +63,13 @@ Testing is an essential part of development and for me, as a software test engin
         📘  Basic
       </th>
     </tr>
+
   </table>
 </div>
 
-<h3 align="left">🔎 Testing Skills:</h3>
 <div align="left"> 
-  <table align="left">
+  <h3 align="left">🔎 Testing Skills:</h3>
+  <table>
     <tr>
       <th>
        <img src="https://static.vecteezy.com/system/resources/previews/015/337/689/non_2x/web-icon-web-sign-free-png.png" width="40" height="40" title="Web"/>  
@@ -120,6 +122,8 @@ Testing is an essential part of development and for me, as a software test engin
 </div>
 
 <h3 align="left">You can contact me with</h3>
+
+
 <div align="left">
   <a href="https://www.linkedin.com/in/samvel-melikyan-qa/" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  title="LinkedIn"/></a>
@@ -130,4 +134,3 @@ Testing is an essential part of development and for me, as a software test engin
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=samvel.melikyan.eng@gmail.com" >
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="52" height="40" alt="telegram logo" title="Gmail"/></a>
  </div>
-
