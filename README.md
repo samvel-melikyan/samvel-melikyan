@@ -80,7 +80,7 @@ Testing is an essential part of development and for me, as a software test engin
     </tr>
     <tr>
       <th>
-       <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" alt="html5" width="40" height="40" title="API"/>  
+       <img src="https://cdn.icon-icons.com/icons2/2596/PNG/512/api_icon_155812.png" width="40" height="40" title="API"/>  
       </th>
       <th>
        📗  Advanced  
@@ -88,7 +88,7 @@ Testing is an essential part of development and for me, as a software test engin
     </tr>
     <tr>
       <th>
-       <img src="https://cdn-icons-png.flaticon.com/512/7910/7910628.png" alt="html5" width="40" height="40" title="Mobile"/>  
+       <img src="https://cdn-icons-png.flaticon.com/512/4477/4477610.png" alt="html5" width="40" height="40" title="Mobile"/>  
       </th>
       <th>
        📘  Basic  
