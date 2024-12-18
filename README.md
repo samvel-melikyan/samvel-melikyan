@@ -4,7 +4,7 @@ Testing is an essential part of development and for me, as a software test engin
 
 
 <div align="left"> 
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">🛠 Languages and Tools:</h3>
   <table>
     <tr>
       <th>
@@ -68,11 +68,11 @@ Testing is an essential part of development and for me, as a software test engin
 </div>
 
 <div align="left"> 
-  <h3 align="left">Testing Skills:</h3>
+  <h3 align="left">🔎 Testing Skills:</h3>
   <table>
     <tr>
       <th>
-       🔎 Web
+       🖥 Web
       </th>
       <th>
        📗  Advanced  
@@ -80,7 +80,7 @@ Testing is an essential part of development and for me, as a software test engin
     </tr>
     <tr>
       <th>
-       🔎 API  
+       🔁 API  
       </th>
       <th>
        📗  Advanced  
@@ -88,7 +88,7 @@ Testing is an essential part of development and for me, as a software test engin
     </tr>
     <tr>
       <th>
-       🔎 Mobile
+       📱 Mobile
       </th>
       <th>
        📘  Basic  
