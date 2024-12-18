@@ -121,9 +121,8 @@ Testing is an essential part of development and for me, as a software test engin
     </table>
   </div>
 </div>
+
 <h3 align="left">You can contact me with</h3>
-
-
 <div align="left">
   <a href="https://www.linkedin.com/in/samvel-melikyan-qa/" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  title="LinkedIn"/></a>
