@@ -72,7 +72,7 @@ Testing is an essential part of development and for me, as a software test engin
   <table>
     <tr>
       <th>
-       <img src="[https://cdn-icons-png.flaticon.com/512/10169/10169724.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fwebsite_977597&psig=AOvVaw1mPKAA2sSzHpk7iawyomrg&ust=1734597830231000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMj4r9b2sIoDFQAAAAAdAAAAABAE)" alt="html5" width="40" height="40"/>  
+       <img src="https://cdn-icons-png.flaticon.com/512/977/977597.png" alt="html5" width="40" height="40"/>  
       </th>
       <th>
        📗  Advanced  
