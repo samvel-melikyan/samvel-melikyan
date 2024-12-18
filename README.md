@@ -80,7 +80,7 @@ Testing is an essential part of development and for me, as a software test engin
     </tr>
     <tr>
       <th>
-       🔁 API  
+       <img src="https://cdn-icons-png.flaticon.com/512/10169/10169724.png" alt="html5" width="30" height="30"/>  
       </th>
       <th>
        📗  Advanced  
