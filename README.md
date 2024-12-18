@@ -94,6 +94,30 @@ Testing is an essential part of development and for me, as a software test engin
        📘  Basic  
       </th
     </tr>
+    <tr>
+      <th>
+       <img src="https://cdn-icons-png.flaticon.com/512/160/160085.png" width="40" height="40" title="Documentation"/>  
+      </th>
+      <th>
+       📗  Advanced  
+      </th
+    </tr>
+    <tr>
+      <th>
+       <img src="https://e7.pngegg.com/pngimages/826/646/png-clipart-computer-icons-test-case-software-testing-computer-software-knowledge-check-angle-text.png" width="40" height="40" title="Test Case"> 
+      </th>
+      <th>
+       📗  Advanced  
+      </th
+    </tr>
+    <tr>
+      <th>
+       <img src="https://files.oaiusercontent.com/file-L6d2Qxd4kgB8yxkzgE8XEo?se=2024-12-18T09%3A05%3A05Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D7a06c587-c1da-4f09-9fd5-c9b12f4bc4dd.webp&sig=SV7q16PrOmjnd9OHACOMgYFtSXCDQqeeijG/KyunOBI%3D" alt="html5" width="40" height="40" title="Bug Report"/>  
+      </th>
+      <th>
+       📘  Basic  
+      </th
+    </tr>
   </table>
 </div>
 
