@@ -14,7 +14,7 @@ Testing is an essential part of development and for me, as a software test engin
        📗  Advanced  
       </th>
       <th>
-       🔎 WEB  
+       🔎 Web
       </th>
       <th>
        📗  Advanced  
@@ -42,7 +42,7 @@ Testing is an essential part of development and for me, as a software test engin
         📗  Advanced  
       </th>
       <th>
-       🔎 MOBILE  
+       🔎 Mobile
       </th>
       <th>
        📘  Basic  
