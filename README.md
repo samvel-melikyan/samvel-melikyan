@@ -115,7 +115,7 @@ Testing is an essential part of development and for me, as a software test engin
        <img src="https://static.thenounproject.com/png/522353-200.png" width="40" height="40" title="Bug Report"/>  
       </th>
       <th>
-       📘  Basic  
+       📗  Advanced   
       </th
     </tr>
   </table>
