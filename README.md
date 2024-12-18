@@ -136,6 +136,3 @@ Testing is an essential part of development and for me, as a software test engin
   </a>
  </div>
 
-
-
-📧 samvel.melikyan.eng@gmail.com
