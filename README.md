@@ -5,8 +5,8 @@ Testing is an essential part of development and for me, as a software test engin
 
 <div align="left"> 
   <h3 align="left">🛠 Languages and Tools:</h3>
-  <table style="display: flex;">
-    <tr>
+  <table >
+    <tr style="display: flex;">
       <th>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
       </th>
