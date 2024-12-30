@@ -6,7 +6,7 @@ Testing is an essential part of development and for me, as a software test engin
 <div align="left"> 
   <h3 align="left">🛠 Languages and Tools:</h3>
   <table >
-    <tr style="display: flex;">
+    <tr >
       <th>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
       </th>
@@ -67,7 +67,7 @@ Testing is an essential part of development and for me, as a software test engin
   </table>
 </div>
 
-<div align="left"> 
+<div align="left" style="display: flex;"> 
   <h3 align="left">🔎 Testing Skills:</h3>
   <table>
     <tr>
