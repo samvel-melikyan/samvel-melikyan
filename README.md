@@ -22,7 +22,9 @@
 I'm Samvel, **QA automation engineer**. 
 Testing is an essential part of development and for me, as a software test engineer, it is a great privilege to carry such a responsibility and ofcourse it is a big hook on me to grow and multipy my skills.
 
-<div class="parent">
+<div class="parent" style="width: 500px;
+    border: 1px solid black;
+    overflow: hidden;">
   <div class="child" style="width: 300px;
     float:left; 
     border: 1px solid red;">
