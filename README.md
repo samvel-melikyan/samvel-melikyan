@@ -3,8 +3,8 @@ I'm Samvel, **QA automation engineer**.
 Testing is an essential part of development and for me, as a software test engineer, it is a great privilege for me to carry such a responsibility as a **Quality Assurance** engineer. I'll be glad to join your company or to participate in your project to turn your ideas to the software.
 
 
-<div style="possition: absalute;">
-  <div align="left" > 
+<div >
+  <div  > 
     <h3 align="left">🛠 Languages and Tools:</h3>
     <table >
       <tr >
