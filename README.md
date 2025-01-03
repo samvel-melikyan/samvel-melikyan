@@ -2,11 +2,10 @@
 I'm Samvel, **QA automation engineer**. 
 Testing is an essential part of development and for me, as a software test engineer, it is a great privilege to carry such a responsibility and ofcourse it is a big hook on me to grow and multipy my skills.
 
-<div style="border: 1px solid black;
-  margin: 1rem;
-  padding: 2rem 2rem;
-  text-align: center;">
-  <div style="background-color: red; 
+<div style="width: 50%;">
+  <div style="float: left; 
+    width: 50%;
+    background-color: red; 
     margin-left: 50%; 
     height: 100px;"> 
     <h3 align="left">🛠 Languages and Tools:</h3>
@@ -71,7 +70,9 @@ Testing is an essential part of development and for me, as a software test engin
     </table>
   </div>
     
-  <div  style="margin-left: 50%; 
+  <div  style="float: left; 
+    width: 50%;
+    margin-left: 50%; 
     height: 100px; 
     background-color: yellow;"> 
     <h3 align="left">🔎 Testing Skills:</h3>
