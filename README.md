@@ -11,7 +11,9 @@ Testing is an essential part of development and for me, as a software test engin
            <h3 align="left">🔎 Testing Skills:</h3>
     </tr>
     <tr>
-        <h3 align="left">🛠 Languages and Tools:</h3>
+        <th>
+            <h3 align="left">🛠 Languages and Tools:</h3>
+        </th>
     </tr>
 </table>
 
