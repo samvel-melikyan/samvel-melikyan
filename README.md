@@ -4,12 +4,6 @@ Testing is an essential part of development and for me, as a software test engin
 
 <table >
     <tr >
-      <th>
-          <h3 align="left">🛠 Languages and Tools:</h3>
-      </th>
-      <th>
-           <h3 align="left">🔎 Testing Skills:</h3>
-    </tr>
     <tr>
         <th>
             <div align="left"> 
