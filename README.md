@@ -11,7 +11,7 @@ Testing is an essential part of development and for me, as a software test engin
               <table >
                 <tr >
                   <th>
-                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
                   </th>
                   <th>
                    📗  Advanced  
@@ -27,7 +27,7 @@ Testing is an essential part of development and for me, as a software test engin
                 </tr>
                 <tr>
                   <th>
-                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" title="Postman"/>  <br/>
+                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>  <br/>
                   </th>
                   <th>
                     📗  Advanced  
@@ -35,7 +35,7 @@ Testing is an essential part of development and for me, as a software test engin
                 </tr>
                 <tr>
                   <th>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" title="Python"/>  <br/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>  <br/>
                   </th>
                   <th>
                     📘  Basic  
@@ -43,7 +43,7 @@ Testing is an essential part of development and for me, as a software test engin
                 </tr>
                 <tr>
                   <th>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" title="Java Script"/>  <br/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="Java Script"/>  <br/>
                   </th>
                   <th>
                     📘  Basic  
@@ -51,7 +51,7 @@ Testing is an essential part of development and for me, as a software test engin
                 </tr>
                 <tr>
                   <th>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" title="CSS"/>  <br/>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS"/>  <br/>
                   </th>
                   <th>
                     📘  Basic
@@ -60,7 +60,7 @@ Testing is an essential part of development and for me, as a software test engin
                 </tr>
                 <tr>
                   <th>
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" title="HTML"/>      
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/>      
                   </th>
                   <th>
                     📘  Basic
