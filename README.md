@@ -67,7 +67,7 @@ Testing is an essential part of development and for me, as a software test engin
   </table>
 </div>
 
-<div  style="display: flex;"> 
+<div  style="display: flex; position: absolute;"> 
   <h3 align="left">🔎 Testing Skills:</h3>
   <table>
     <tr>
