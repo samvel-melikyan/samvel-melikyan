@@ -128,7 +128,8 @@ Testing is an essential part of development and for me, as a software test engin
       </tr>
     </table>
   </div>
-</div>  
+</div>
+
 <h3 align="left">You can contact me with</h3>
 
 
