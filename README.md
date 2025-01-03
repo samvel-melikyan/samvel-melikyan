@@ -12,7 +12,68 @@ Testing is an essential part of development and for me, as a software test engin
     </tr>
     <tr>
         <th>
-            <h3 align="left">🛠 Languages and Tools:</h3>
+            <div align="left"> 
+              <h3 align="left">🛠 Languages and Tools:</h3>
+              <table >
+                <tr >
+                  <th>
+                      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
+                  </th>
+                  <th>
+                   📗  Advanced  
+                  </th>
+                </tr>
+                <tr>
+                  <th>
+                    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30" title="Selenium"/> <br/>
+                  </th>
+                  <th>
+                   📗  Advanced  
+                  </th>
+                </tr>
+                <tr>
+                  <th>
+                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" title="Postman"/>  <br/>
+                  </th>
+                  <th>
+                    📗  Advanced  
+                  </th>
+                </tr>
+                <tr>
+                  <th>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" title="Python"/>  <br/>
+                  </th>
+                  <th>
+                    📘  Basic  
+                  </th>
+                </tr>
+                <tr>
+                  <th>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" title="Java Script"/>  <br/>
+                  </th>
+                  <th>
+                    📘  Basic  
+                  </th>
+                </tr>
+                <tr>
+                  <th>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" title="CSS"/>  <br/>
+                  </th>
+                  <th>
+                    📘  Basic
+                  </th>
+                </tr>
+                </tr>
+                <tr>
+                  <th>
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" title="HTML"/>      
+                  </th>
+                  <th>
+                    📘  Basic
+                  </th>
+                </tr>
+              </table>
+            </div>
         </th>
     </tr>
 </table>
