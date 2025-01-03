@@ -76,6 +76,63 @@ Testing is an essential part of development and for me, as a software test engin
             </div>
         </th>
     </tr>
+    <tr>
+        <th>
+            <div align="left" style="display: flex;"> 
+              <h3 align="left">🔎 Testing Skills:</h3>
+              <table>
+                <tr>
+                  <th>
+                   <img src="https://static.vecteezy.com/system/resources/previews/015/337/689/non_2x/web-icon-web-sign-free-png.png" width="40" height="40" title="Web"/>  
+                  </th>
+                  <th>
+                   📗  Advanced  
+                  </th
+                </tr>
+                <tr>
+                  <th>
+                   <img src="https://cdn.icon-icons.com/icons2/2596/PNG/512/api_icon_155812.png" width="40" height="40" title="API"/>  
+                  </th>
+                  <th>
+                   📗  Advanced  
+                  </th
+                </tr>
+                <tr>
+                  <th>
+                   <img src="https://cdn-icons-png.flaticon.com/512/4477/4477610.png" alt="html5" width="40" height="40" title="Mobile"/>  
+                  </th>
+                  <th>
+                   📘  Basic  
+                  </th
+                </tr>
+                <tr>
+                  <th>
+                   <img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="40" height="40" title="Documentation"/>  
+                  </th>
+                  <th>
+                   📗  Advanced  
+                  </th
+                </tr>
+                <tr>
+                  <th>
+                   <img src="https://cdn-icons-png.flaticon.com/512/160/160085.png" width="40" height="40" title="Test Case"> 
+                  </th>
+                  <th>
+                   📗  Advanced  
+                  </th
+                </tr>
+                <tr>
+                  <th>
+                   <img src="https://static.thenounproject.com/png/522353-200.png" width="40" height="40" title="Bug Report"/>  
+                  </th>
+                  <th>
+                   📗  Advanced   
+                  </th
+                </tr>
+              </table>
+            </div>
+        </th>
+    </tr>
 </table>
 
 
