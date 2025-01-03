@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Samvel, **QA automation engineer**. 
+I'm **QA automation engineer**. 
 Testing is an essential part of development and for me, as a software test engineer, it is a great privilege for me to carry such a responsibility as a **Quality Assurance** engineer. I'll be glad to join your company or to participate in your project to turn your ideas to the software.
 
 
