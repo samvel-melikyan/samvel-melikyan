@@ -4,7 +4,7 @@ Testing is an essential part of development and for me, as a software test engin
 
 
 
-<div align="left" style="border: solid; border-color: black; border-size: 5px;> 
+<div align="left" style="border: solid; border-color: black; border-size: 5px;"> 
   <h3 align="left">🛠 Languages and Tools:</h3>
   <table >
     <tr >
