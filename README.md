@@ -1,4 +1,22 @@
-
+<style>
+  .parent { 
+    width: 50%; 
+  } 
+  .child{ 
+      float: left; 
+      width: 50%; 
+  } 
+  .tools { 
+      background-color: red; 
+      margin-left: 50%; 
+      height: 100px; 
+  } 
+  .skills { 
+      margin-left: 50%; 
+      height: 100px; 
+      background-color: yellow; 
+  }
+</style>
 
 ## Hi there 👋
 I'm Samvel, **QA automation engineer**. 
@@ -140,22 +158,3 @@ Testing is an essential part of development and for me, as a software test engin
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="52" height="40" alt="telegram logo" title="samvel.melikyan.eng@gmail.com"/></a>
  </div>
 
- <style>
-  .parent { 
-    width: 50%; 
-  } 
-  .child{ 
-      float: left; 
-      width: 50%; 
-  } 
-  .tools { 
-      background-color: red; 
-      margin-left: 50%; 
-      height: 100px; 
-  } 
-  .skills { 
-      margin-left: 50%; 
-      height: 100px; 
-      background-color: yellow; 
-  }
-</style>
