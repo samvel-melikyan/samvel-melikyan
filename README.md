@@ -2,7 +2,7 @@
 ## Hi there 👋
 I'm **QA automation engineer**. 
 <p>Testing is an essential part of development and for me, as a software test engineer, it is a great privilege to carry such a responsibility. </p>
-n/I am looking for a new experiances, so I'm glad to be a part of your company or be an partisipante of your project. </p>
+n\I am looking for a new experiances, so I'm glad to be a part of your company or be an partisipante of your project. </p>
 
   <div>
     <h3>🛠 Languages and Tools:</h3>
