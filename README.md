@@ -25,7 +25,8 @@ Testing is an essential part of development and for me, as a software test engin
 
 <div class="parent">
   <div class="child">
-    <div class="tools">🛠 Languages and Tools:</h3>
+    <div class="tools">
+      <h3>🛠 Languages and Tools:</h3>
       <table >
         <tr >
           <th>
