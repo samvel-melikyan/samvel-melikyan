@@ -6,10 +6,9 @@ Testing is an essential part of development and for me, as a software test engin
   margin: 1rem;
   padding: 2rem 2rem;
   text-align: center;">
-  <div style="display: inline-block;
-    border: 1px solid red;
-    padding: 1rem 1rem;
-    vertical-align: middle;"> 
+  <div style="background-color: red; 
+    margin-left: 50%; 
+    height: 100px;"> 
     <h3 align="left">🛠 Languages and Tools:</h3>
     <table >
       <tr >
