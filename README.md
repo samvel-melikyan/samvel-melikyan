@@ -4,7 +4,7 @@ Testing is an essential part of development and for me, as a software test engin
 
 <table>
   <tr>
-    <td></td>
+    <td>
       <h3 align="left">🛠 Languages and Tools:</h3>
       <table>
         <tr>
