@@ -44,7 +44,7 @@ Testing is an essential part of development and for me, as a software test engin
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" title="Java Script"/>  <br/>
       </th>
       <th>
-        🔵 🔵 🔵 ⚪ ⚪
+        🟡 🟡 ⚪ ⚪ ⚪
       </th>
     </tr>
     <tr>
@@ -52,7 +52,7 @@ Testing is an essential part of development and for me, as a software test engin
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" title="CSS"/>  <br/>
       </th>
       <th>
-        🔵 🔵 🔵 ⚪ ⚪
+        🟡 🟡 ⚪ ⚪ ⚪
       </th>
     </tr>
     </tr>
@@ -61,7 +61,7 @@ Testing is an essential part of development and for me, as a software test engin
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" title="HTML"/>      
       </th>
       <th>
-        🔵 🔵 🔵 ⚪ ⚪
+        🟡 🟡 ⚪ ⚪ ⚪
       </th>
     </tr>
 
