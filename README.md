@@ -20,7 +20,7 @@ Testing is an essential part of development and for me, as a software test engin
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30" title="Selenium"/> <br/>
       </th>
       <th>
-       🟩 🟩 🟩 🟩 ⬜  
+       🟢 🟢 🟢 🟢 ⚪   
       </th>
     </tr>
     <tr>
@@ -36,7 +36,7 @@ Testing is an essential part of development and for me, as a software test engin
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" title="Python"/>  <br/>
       </th>
       <th>
-        📘  Basic  
+        🔵 🔵 🔵 ⚪ ⚪
       </th>
     </tr>
     <tr>
