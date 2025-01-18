@@ -76,7 +76,7 @@ Testing is an essential part of development and for me, as a software test engin
        <img src="https://static.vecteezy.com/system/resources/previews/015/337/689/non_2x/web-icon-web-sign-free-png.png" width="40" height="40" title="Web"/>  
       </th>
       <th>
-       🟢 🟢 🟢 🟢 ⚪   
+       🟢 🟢 🟢 🟢 🟢   
       </th
     </tr>
     <tr>
