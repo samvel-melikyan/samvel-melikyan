@@ -15,37 +15,37 @@ Testing is an essential part of development and for me, as a software test engin
         </tr>
         <tr>
           <th>
-            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30" title="Selenium"/>
+            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"  width="40" height="40"  title="Selenium"/>
           </th>
           <th>🟢 🟢 🟢 🟢 ⚪</th>
         </tr>
         <tr>
           <th>
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" title="Postman"/>
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
           </th>
           <th>🟢 🟢 🟢 🟢 ⚪</th>
         </tr>
         <tr>
           <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" title="Python"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"  title="Python"/>
           </th>
           <th>🟢 🟢 🟢 ⚪ ⚪</th>
         </tr>
         <tr>
           <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" title="JavaScript"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="40" height="40"  title="JavaScript"/>
           </th>
           <th>🟢 🟢 ⚪ ⚪ ⚪</th>
         </tr>
         <tr>
           <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" title="CSS"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"  title="CSS"/>
           </th>
           <th>🟢 🟢 ⚪ ⚪ ⚪</th>
         </tr>
         <tr>
           <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" title="HTML"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"  title="HTML"/>
           </th>
           <th>🟢 🟢 ⚪ ⚪ ⚪</th>
         </tr>
