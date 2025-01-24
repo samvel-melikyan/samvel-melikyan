@@ -17,7 +17,6 @@ Testing is an essential part of development and for me, as a software test engin
             <div style="width: 15px; height: 15px; background: green;"></div>
             <div style="width: 15px; height: 15px; background: green;"></div>
             <div style="width: 15px; height: 15px; background: lightgray;"></div>
-            🟢 🟢 🟢 🟢 ⚪
           </th>
         </tr>
         <tr>
