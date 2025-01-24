@@ -11,7 +11,7 @@ Testing is an essential part of development and for me, as a software test engin
           <th>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
           </th>
-          <th>🟢 🟢 🟢 🟢 ⚪</th>
+          <th>● ● ● ● ○</th>
         </tr>
         <tr>
           <th>
