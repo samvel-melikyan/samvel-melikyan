@@ -11,13 +11,13 @@ Testing is an essential part of development and for me, as a software test engin
           <th>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
           </th>
-          <th>★ ★ ★ ★ ☆</th>
+          <th>🟢 🟢 🟢 🟢 ⚪</th>
         </tr>
         <tr>
           <th>
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"  width="30" height="30" title="Selenium"/>
           </th>
-          <th>🟢 🟢 🟢 🟢 ▢ </th>
+          <th>🟢 🟢 🟢 🟢 ⚪ </th>
         </tr>
         <tr>
           <th>
