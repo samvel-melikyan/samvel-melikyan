@@ -62,7 +62,7 @@ Testing is an essential part of development and for me, as a software test engin
         </tr>
         <tr>
           <th>
-            <img src="https://cdn.icon-icons.com/icons2/2596/PNG/512/api_icon_155812.png" width="40" height="40" title="API"/>
+            <img src="https://tse2.mm.bing.net/th?id=OIP.ARb9cDARSeZHjlMtKX6xbAHaHa&pid=Api&P=0&h=220" width="40" height="40" title="API"/>
           </th>
           <th>🟢 🟢 🟢 🟢 ⚪</th>
         </tr>
