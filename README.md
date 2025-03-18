@@ -45,7 +45,7 @@ Testing is an essential part of development and for me, as a software test engin
         </tr>
       </table>
     </td>
-    <td>
+    <td  align="top">
       <h3 align="left">📚 Frameworks:</h3>
       <table>
         <tr>
