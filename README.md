@@ -12,16 +12,16 @@ Testing is an essential part of development and for me, as a software test engin
           <td>🟢 🟢 🟢 🟢 ⚪</td>
         </tr>
         <tr>
-          <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" title="Postman"/></td>
-          <td>🟢 🟢 🟢 🟢 ⚪</td>
-        </tr>
-        <tr>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" title="Python"/></td>
           <td>🟢 🟢 🟢 ⚪ ⚪</td>
         </tr>
         <tr>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript"/></td>
           <td>🟢 🟢 ⚪ ⚪ ⚪</td>
+        </tr>
+        <tr>
+          <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" title="Postman"/></td>
+          <td>🟢 🟢 🟢 🟢 ⚪</td>
         </tr>
         <tr>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" title="CSS"/></td>
