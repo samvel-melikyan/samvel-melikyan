@@ -15,12 +15,6 @@ Testing is an essential part of development and for me, as a software test engin
         </tr>
         <tr>
           <th>
-            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"  width="30" height="30" title="Selenium"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 ⚪ </th>
-        </tr>
-        <tr>
-          <th>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" title="Postman"/>
           </th>
           <th>🟢 🟢 🟢 🟢 ⚪</th>
@@ -48,6 +42,23 @@ Testing is an essential part of development and for me, as a software test engin
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"  title="HTML"/>
           </th>
           <th>🟢 🟢 ⚪ ⚪ ⚪</th>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <h3 align="left">📚 Frameworks:</h3>
+      <table>
+        <tr>
+          <th>
+            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"  width="30" height="30" title="Selenium"/>
+          </th>
+          <th>🟢 🟢 🟢 🟢 ⚪ </th>
+        </tr>
+        <tr>
+          <th>
+            <img src="https://media.licdn.com/dms/image/v2/D5612AQFeUcKQu3LICg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721876592322?e=2147483647&v=beta&t=8Z-dMuFDmPsdNMVLvqDgbqtxAeEz4GWwHcaQQxLTzlc" alt="playwright"  width="30" height="30" title="Selenium"/>
+          </th>
+          <th>🟢 ⚪ ⚪ ⚪ ⚪ </th>
         </tr>
       </table>
     </td>
