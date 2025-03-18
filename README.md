@@ -2,9 +2,9 @@
 I'm **QA automation engineer**. 
 Testing is an essential part of development and for me, as a software test engineer, it is a great privilege to carry such a responsibility as a **Quality Assurance** engineer. I'll be glad to join your company or to participate in your project to turn your ideas to the software.
 
-<table  align="top">
+<table>
   <tr>
-    <td>
+    <td valign="top">
       <h3 align="left">🛠 Languages and Tools:</h3>
       <table>
         <tr>
@@ -45,7 +45,7 @@ Testing is an essential part of development and for me, as a software test engin
         </tr>
       </table>
     </td>
-    <td  align="top">
+    <td  avalign="top">
       <h3 align="left">📚 Frameworks:</h3>
       <table>
         <tr>
@@ -62,7 +62,7 @@ Testing is an essential part of development and for me, as a software test engin
         </tr>
       </table>
     </td>
-    <td>
+    <td valign="top">
       <h3 align="left">🔎 Testing Skills:</h3>
       <table>
         <tr>
