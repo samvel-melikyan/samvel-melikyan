@@ -8,57 +8,41 @@ Testing is an essential part of development and for me, as a software test engin
       <h3 align="left">🛠 Languages and Tools:</h3>
       <table>
         <tr>
-          <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30" title="Java"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 ⚪ </th>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" title="Java"/></td>
+          <td>🟢 🟢 🟢 🟢 ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30" title="Postman"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 ⚪</th>
+          <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" title="Postman"/></td>
+          <td>🟢 🟢 🟢 🟢 ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"  title="Python"/>
-          </th>
-          <th>🟢 🟢 🟢 ⚪ ⚪</th>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" title="Python"/></td>
+          <td>🟢 🟢 🟢 ⚪ ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="30" height="30"  title="JavaScript"/>
-          </th>
-          <th>🟢 🟢 ⚪ ⚪ ⚪</th>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript"/></td>
+          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="30" height="30"  title="CSS"/>
-          </th>
-          <th>🟢 🟢 ⚪ ⚪ ⚪</th>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" title="CSS"/></td>
+          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"  title="HTML"/>
-          </th>
-          <th>🟢 🟢 ⚪ ⚪ ⚪</th>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" title="HTML"/></td>
+          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
         </tr>
       </table>
     </td>
-    <td  avalign="top">
+    <td valign="top">
       <h3 align="left">📚 Frameworks:</h3>
       <table>
         <tr>
-          <th>
-            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium"  width="30" height="30" title="Selenium"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 ⚪ </th>
+          <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="30" height="30" title="Selenium"/></td>
+          <td>🟢 🟢 🟢 🟢 ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://media.licdn.com/dms/image/v2/D5612AQFeUcKQu3LICg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721876592322?e=2147483647&v=beta&t=8Z-dMuFDmPsdNMVLvqDgbqtxAeEz4GWwHcaQQxLTzlc" alt="playwright"  width="30" height="30" title="Selenium"/>
-          </th>
-          <th>🟢 ⚪ ⚪ ⚪ ⚪ </th>
+          <td><img src="https://media.licdn.com/dms/image/v2/D5612AQFeUcKQu3LICg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721876592322?e=2147483647&v=beta&t=8Z-dMuFDmPsdNMVLvqDgbqtxAeEz4GWwHcaQQxLTzlc" alt="Playwright" width="30" height="30" title="Playwright"/></td>
+          <td>🟢 ⚪ ⚪ ⚪ ⚪</td>
         </tr>
       </table>
     </td>
@@ -66,40 +50,28 @@ Testing is an essential part of development and for me, as a software test engin
       <h3 align="left">🔎 Testing Skills:</h3>
       <table>
         <tr>
-          <th>
-            <img src="https://static.vecteezy.com/system/resources/previews/015/337/689/non_2x/web-icon-web-sign-free-png.png" width="40" height="40" title="Web"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 🟢</th>
+          <td><img src="https://static.vecteezy.com/system/resources/previews/015/337/689/non_2x/web-icon-web-sign-free-png.png" width="40" height="40" title="Web Testing"/></td>
+          <td>🟢 🟢 🟢 🟢 🟢</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://tse2.mm.bing.net/th?id=OIP.ARb9cDARSeZHjlMtKX6xbAHaHa&pid=Api&P=0&h=220" width="40" height="40" title="API"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 ⚪</th>
+          <td><img src="https://tse2.mm.bing.net/th?id=OIP.ARb9cDARSeZHjlMtKX6xbAHaHa&pid=Api&P=0&h=220" width="40" height="40" title="API Testing"/></td>
+          <td>🟢 🟢 🟢 🟢 ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://cdn-icons-png.flaticon.com/512/4477/4477610.png" width="40" height="40" title="Mobile"/>
-          </th>
-          <th>🟢 🟢 ⚪ ⚪ ⚪</th>
+          <td><img src="https://cdn-icons-png.flaticon.com/512/4477/4477610.png" width="40" height="40" title="Mobile Testing"/></td>
+          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="40" height="40" title="Documentation"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 ⚪</th>
+          <td><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="40" height="40" title="Documentation"/></td>
+          <td>🟢 🟢 🟢 🟢 ⚪</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://cdn-icons-png.flaticon.com/512/160/160085.png" width="40" height="40" title="Test Case"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 🟢</th>
+          <td><img src="https://cdn-icons-png.flaticon.com/512/160/160085.png" width="40" height="40" title="Test Case Design"/></td>
+          <td>🟢 🟢 🟢 🟢 🟢</td>
         </tr>
         <tr>
-          <th>
-            <img src="https://static.thenounproject.com/png/522353-200.png" width="40" height="40" title="Bug Report"/>
-          </th>
-          <th>🟢 🟢 🟢 🟢 🟢</th>
+          <td><img src="https://static.thenounproject.com/png/522353-200.png" width="40" height="40" title="Bug Reporting"/></td>
+          <td>🟢 🟢 🟢 🟢 🟢</td>
         </tr>
       </table>
     </td>
