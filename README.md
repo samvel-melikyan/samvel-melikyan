@@ -4,7 +4,6 @@
 I am a Software QA Engineer with a strong passion for test automation and quality assurance. My goal is to ensure software reliability through efficient testing strategies and automation.
 
 🔹 What I Do:
-
 ✅ Manual & Automated Testing – Creating and executing test cases, exploratory testing, and regression testing.
 
 🏗 Test Automation – Writing robust automated tests using Playwright (TypeScript) and Selenium (Java, Python).
