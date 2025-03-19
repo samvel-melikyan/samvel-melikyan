@@ -14,7 +14,9 @@ I am a Software QA Engineer with a strong passion for test automation and qualit
 🚀 Continuous Learning – Constantly improving my skills in test automation and software quality.
 
 🌱 Currently Learning:
+
 Advanced Playwright with TypeScript
+
 Performance testing & API automation
 
 🎯 My Goal:
