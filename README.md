@@ -1,6 +1,18 @@
-## Hi there 👋
-I'm **QA automation engineer**. 
-Testing is an essential part of development and for me, as a software test engineer, it is a great privilege to carry such a responsibility as a **Quality Assurance** engineer. I'll be glad to join your company or to participate in your project to turn your ideas to the software.
+👋 Hi, I'm Samvel Melikyan!
+💡 **Software QA Engineer** | Test Automation | Playwright | Python | Java
+
+I am a Software QA Engineer with a strong passion for test automation and quality assurance. My goal is to ensure software reliability through efficient testing strategies and automation.
+
+🔹 What I Do:
+✅ Manual & Automated Testing – Creating and executing test cases, exploratory testing, and regression testing.
+🏗 Test Automation – Writing robust automated tests using Playwright (TypeScript) and Selenium (Java, Python).
+🛠 Tools & Technologies – Playwright, Selenium, Python, Java, Jira, TestRail, Git, CI/CD.
+🚀 Continuous Learning – Constantly improving my skills in test automation and software quality.
+🌱 Currently Learning:
+Advanced Playwright with TypeScript
+Performance testing & API automation
+🎯 My Goal:
+Currently, I am actively seeking my first QA Automation Engineer role to apply my skills in a real-world environment.
 
 <table>
   <tr>
