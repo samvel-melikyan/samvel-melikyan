@@ -20,6 +20,7 @@ Advanced Playwright with TypeScript
 Performance testing & API automation
 
 🎯 My Goal:
+
 Currently, I am actively seeking my first QA Automation Engineer role to apply my skills in a real-world environment.
 
 <table>
