@@ -1,28 +1,46 @@
-👋 Hi, I'm Samvel Melikyan!
+# 👋 Hi, I'm Samvel Melikyan!  
 
-💡 **Software QA Engineer** | Test Automation | Playwright | Python | Java
+## 💡 Software QA Engineer | Test Automation | Playwright | Python | Java  
 
-I am a Software QA Engineer with a strong passion for test automation and quality assurance. My goal is to ensure software reliability through efficient testing strategies and automation.
+I am a **Software QA Engineer** with a strong passion for **test automation and quality assurance**.  
+My goal is to ensure software reliability through efficient testing strategies and automation.  
 
-  🔹 What I Do:
+---
 
-✅ Manual & Automated Testing – Creating and executing test cases, exploratory testing, and regression testing.
+## 🔹 What I Do  
 
-🏗 Test Automation – Writing robust automated tests using Playwright (TypeScript) and Selenium (Java, Python).
+✔ **Manual & Automated Testing**  
+- Creating and executing test cases  
+- Exploratory testing  
+- Regression testing  
 
-🛠 Tools & Technologies – Playwright, Selenium, Python, Java, Jira, TestRail, Git, CI/CD.
+🏗 **Test Automation**  
+- Writing robust automated tests using **Playwright (TypeScript)** and **Selenium (Java, Python)**  
 
-🚀 Continuous Learning – Constantly improving my skills in test automation and software quality.
+🛠 **Tools & Technologies**  
+- **Test Automation:** Playwright, Selenium  
+- **Programming:** Python, Java  
+- **Test Management:** Jira, TestRail  
+- **Version Control & CI/CD:** Git, CI/CD  
 
-🌱 Currently Learning:
+🚀 **Continuous Learning**  
+- Constantly improving my skills in test automation and software quality  
 
-Advanced Playwright with TypeScript
+---
 
-Performance testing & API automation
+## 🌱 Currently Learning  
 
-  🎯 My Goal:
+🔹 Advanced **Playwright** with **TypeScript**  
+🔹 **Performance testing** & **API automation**  
 
-Currently, I am actively seeking my first QA Automation Engineer role to apply my skills in a real-world environment.
+---
+
+## 🎯 My Goal  
+
+I am actively seeking my **first QA Automation Engineer role** to apply my skills in a real-world environment.  
+
+💬 Let's connect and collaborate!  
+
 
 <table>
   <tr>
