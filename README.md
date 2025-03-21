@@ -106,6 +106,6 @@ Currently, I am actively seeking my first QA Automation Engineer role to apply m
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn"/></a>
   <a href="https://t.me/MelikyanSamvel">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" title="Telegram"/></a>
-  <a href="mailto:samvel.melikyan.eng@gmail.com">
+  <a href="mailto:samvel.melikyan.eng@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="52" height="40" alt="Email" title="Email"/></a>
 </div>
