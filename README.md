@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samvel Melikyan!  
 
-## 💡 Software QA Engineer | Test Automation | Playwright | Python | Java  
+## 💡 Software QA Engineer | Test Automation | Playwright | Selenium 
 
 I am a **Software QA Engineer** with a strong passion for **test automation and quality assurance**.  
 My goal is to ensure software reliability through efficient testing strategies and automation.  
@@ -19,7 +19,7 @@ My goal is to ensure software reliability through efficient testing strategies a
 
 🛠 **Tools & Technologies**  
 - **Test Automation:** Playwright, Selenium  
-- **Programming:** Python, Java  
+- **Programming:** Python, Java, JavaScript
 - **Test Management:** Jira, TestRail  
 - **Version Control & CI/CD:** Git, CI/CD  
 
