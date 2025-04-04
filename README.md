@@ -106,7 +106,7 @@ I am actively seeking my **first QA Automation Engineer role** to apply my skill
           <td>🟢 🟢 🟢 🟢 ⚪</td>
         </tr>
         <tr>
-          <td><img src="https://cdn-icons-png.flaticon.com/512/160/160085.png" width="40" height="40" title="Test Case Design"/></td>
+          <td><img src="https://cdn-icons-png.freepik.com/256/8367/8367019.png?semt=ais_hybrid" width="40" height="40" title="Test Case Design"/></td>
           <td>🟢 🟢 🟢 🟢 🟢</td>
         </tr>
         <tr>
