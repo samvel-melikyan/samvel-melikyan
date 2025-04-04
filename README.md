@@ -110,7 +110,7 @@ I am actively seeking my **first QA Automation Engineer role** to apply my skill
           <td>🟢 🟢 🟢 🟢 🟢</td>
         </tr>
         <tr>
-          <td><img src="https://static.thenounproject.com/png/522353-200.png" width="40" height="40" title="Bug Reporting"/></td>
+          <td><img src="https://cdn3.iconfinder.com/data/icons/presentation-flat-line/280/Presentation_flat_line_comp-04-512.png" width="40" height="40" title="Bug Reporting"/></td>
           <td>🟢 🟢 🟢 🟢 🟢</td>
         </tr>
       </table>
