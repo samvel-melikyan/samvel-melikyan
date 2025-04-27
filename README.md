@@ -30,8 +30,7 @@ My goal is to ensure software reliability through efficient testing strategies a
 
 ## 🌱 Currently Learning  
 
-🔹 Advanced **Playwright** with **TypeScript**  
-🔹 **Performance testing** & **API automation**  
+🔹 Advanced **Playwright** with **TypeScript**   
 
 ---
 
@@ -57,7 +56,7 @@ I am actively seeking my **first QA Automation Engineer role** to apply my skill
         </tr>
         <tr>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript"/></td>
-          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
+          <td>🟢 🟢 🟢 ⚪ ⚪</td>
         </tr>
         <tr>
           <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" title="Postman"/></td>
