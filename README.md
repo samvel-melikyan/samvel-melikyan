@@ -36,7 +36,7 @@ My goal is to ensure software reliability through efficient testing strategies a
 
 ## 🎯 My Goal  
 
-I am actively seeking my **first QA Automation Engineer role** to apply my skills in a real-world environment.  
+I am actively seeking **QA Automation Engineer role** to apply my skills in a real-world environment.  
 
 💬 Let's connect and collaborate!  
 
