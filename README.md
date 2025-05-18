@@ -78,7 +78,7 @@ I am actively seeking **QA Automation Engineer role** to apply my skills in a re
         </tr>
         <tr>
           <td><img src="https://media.licdn.com/dms/image/v2/D5612AQFeUcKQu3LICg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721876592322?e=2147483647&v=beta&t=8Z-dMuFDmPsdNMVLvqDgbqtxAeEz4GWwHcaQQxLTzlc" alt="Playwright" width="30" height="30" title="Playwright"/></td>
-          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
+          <td>🟢 🟢 🟢 ⚪ ⚪</td>
         </tr>
       </table>
     </td>
