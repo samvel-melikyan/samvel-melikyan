@@ -11,7 +11,7 @@ My goal is to ensure software reliability through efficient testing strategies a
 
 ✔ **Manual & Automated Testing**  
 
-🏗 **Test Automation**  
+🏗 **Automation**  
 - Writing robust automated tests using **Playwright (TypeScript)** and **Selenium (Java, Python)**  
 
 🛠 **Tools & Technologies**  
