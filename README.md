@@ -10,9 +10,6 @@ My goal is to ensure software reliability through efficient testing strategies a
 ## 🔹 What I Do  
 
 ✔ **Manual & Automated Testing**  
-- Creating and executing test cases  
-- Exploratory testing  
-- Regression testing  
 
 🏗 **Test Automation**  
 - Writing robust automated tests using **Playwright (TypeScript)** and **Selenium (Java, Python)**  
