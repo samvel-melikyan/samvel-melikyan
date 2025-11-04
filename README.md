@@ -25,12 +25,6 @@ My goal is to ensure software reliability through efficient testing strategies a
 
 ---
 
-## 🌱 Currently Learning  
-
-🔹 Advanced **Playwright** with **TypeScript**   
-
----
-
 ## 🎯 My Goal  
 
 I am actively seeking **QA Automation Engineer role** to apply my skills in a real-world environment.  
