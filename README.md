@@ -31,7 +31,7 @@ I am actively seeking **QA Automation Engineer role** to apply my skills in a re
 
 💬 Let's connect and collaborate!  
 
-
+<!--
 <table>
   <tr>
     <td valign="top">
@@ -107,7 +107,7 @@ I am actively seeking **QA Automation Engineer role** to apply my skills in a re
     </td>
   </tr>
 </table>
-
+-->
 <h3 align="left">You can contact me with:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/samvel-melikyan-qa/">
