@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samvel Melikyan!  
+# 👋 Hi, I'm Samvel!  
 
 ## 💡 Software QA Engineer | Test Automation | Playwright | Selenium 
 
