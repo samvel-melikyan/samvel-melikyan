@@ -36,6 +36,44 @@ QA Manual/Automation Engineer progressing through hands-on projects, new tools, 
 💬 Let's connect and collaborate!  
 
 
+
+## 📫 You can contact or know more about me
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.linkedin.com/in/samvel-melikyan-qa/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" alt="LinkedIn"/>
+      </a>
+      <br/>
+      <sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://t.me/MelikyanSamvel">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="48" alt="Telegram"/>
+      </a>
+      <br/>
+      <sub><b>Telegram</b></sub>
+    </td>
+    <td align="center" width="140">
+      <a href="mailto:samvel.melikyan.eng@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email"/>
+      </a>
+      <br/>
+      <sub><b>Email</b></sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://samvel-melikyan-cv.vercel.app/">
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="48" height="48" alt="Portfolio"/>
+      </a>
+      <br/>
+      <sub><b>Portfolio</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
 <h3 align="left">You can contact or know more about me:</h3>
 <div align="left">
  <span>
