@@ -42,28 +42,28 @@ QA Manual/Automation Engineer progressing through hands-on projects, new tools, 
 <table>
   <tr>
     <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/samvel-melikyan-qa/" target="blank">
+      <a href="https://www.linkedin.com/in/samvel-melikyan-qa/" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" alt="LinkedIn"/>
       </a>
       <br/>
       <sub><b>LinkedIn</b></sub>
     </td>
     <td align="center" width="140">
-      <a href="https://t.me/MelikyanSamvel" target="blank">
+      <a href="https://t.me/MelikyanSamvel" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="48" alt="Telegram"/>
       </a>
       <br/>
       <sub><b>Telegram</b></sub>
     </td>
     <td align="center" width="140">
-      <a href="mailto:samvel.melikyan.eng@gmail.com" target="blank">
+      <a href="mailto:samvel.melikyan.eng@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="48" height="48" alt="Email"/>
       </a>
       <br/>
       <sub><b>Email</b></sub>
     </td>
     <td align="center" width="140">
-      <a href="https://samvel-melikyan-cv.vercel.app/" target="blank">
+      <a href="https://samvel-melikyan-cv.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="48" height="48" alt="Portfolio"/>
       </a>
       <br/>
