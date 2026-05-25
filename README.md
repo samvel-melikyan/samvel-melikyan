@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Samvel Melikyan</h1>
 <h3 align="center">QA Manual & Automation Engineer</h3>
  
----
+
 
 ## 🚀 About Me
 - 🔍 QA Automation with **Playwright**, **Selenium**
@@ -27,7 +27,7 @@
 🚀 **Continuous Learning**  
 - Constantly improving my skills in test automation and software quality  
 
----
+
 
 ## 🎯 My Goal  
 
@@ -45,5 +45,5 @@ QA Manual/Automation Engineer progressing through hands-on projects, new tools, 
   <a href="mailto:samvel.melikyan.eng@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="52" height="40" alt="Email" title="Email"/></a>
   <a href="https://samvel-melikyan-cv.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://toppng.com/uploads/preview/world-icon-web-icon-white-11563010874xluuy00vry.png" width="52" height="40" alt="Porfolio" title="Portfolio"/></a>
+    <img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" width="52" height="40" alt="Porfolio" title="Portfolio"/></a>
 </div>
