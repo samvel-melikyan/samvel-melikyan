@@ -36,14 +36,26 @@ QA Manual/Automation Engineer progressing through hands-on projects, new tools, 
 💬 Let's connect and collaborate!  
 
 
-<h3 align="left">You can contact me with:</h3>
+<h3 align="left">You can contact or know more about me:</h3>
 <div align="left">
+ <span>
   <a href="https://www.linkedin.com/in/samvel-melikyan-qa/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn"/></a>
+  <p>**LinkedIn**</p>
+ </span>
+ <span>
   <a href="https://t.me/MelikyanSamvel">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" title="Telegram"/></a>
+  <p>**Telegram**</p>
+  </span>
+  <span>
   <a href="mailto:samvel.melikyan.eng@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="52" height="40" alt="Email" title="Email"/></a>
+   <p>**Email - samvel.melikyan.eng@gmail.com**</p>
+  </span>
+  <span>
   <a href="https://samvel-melikyan-cv.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" width="52" height="40" alt="Porfolio" title="Portfolio"/></a>
+   <p>**Portfolio**</p>
+  </span>
 </div>
