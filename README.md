@@ -42,7 +42,7 @@ QA Manual/Automation Engineer progressing through hands-on projects, new tools, 
 <table>
   <tr>
     <td align="center" width="140">
-      <a href="https://www.linkedin.com/in/samvel-melikyan-qa/" target="_blank" rel="noopener noreferrer">
+      <a href="www.linkedin.com/in/samvel-melikyan-qa" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" alt="LinkedIn"/>
       </a>
       <br/>
