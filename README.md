@@ -1,3 +1,45 @@
+👋 Hi, I'm Samvel Melikyan
+
+QA Manual & Automation Engineer
+Focused on building reliable test automation, improving product quality, and continuous growth.
+
+🚀 About Me
+🔍 QA Automation (Playwright, Selenium, Java, Python)
+🧪 API Testing (Postman)
+📦 Strong experience with POM, end-to-end flows, and CI-ready test suites
+🧠 Currently learning: JavaScript for Playwright
+🛠 Passionate about quality, automation, and engineering best practices
+📫 You Can Contact Me
+<div align="left"> <a href="<YOUR_LINKEDIN_URL>"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" title="LinkedIn"/> </a> <a href="<YOUR_TELEGRAM_URL>"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" title="Telegram"/> </a> <a href="mailto:<YOUR_EMAIL>"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="52" height="40" alt="Email" title="Email"/> </a> <a href="<YOUR_PORTFOLIO_URL>"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/site/default.svg" width="52" height="40" alt="Portfolio" title="Portfolio"/> </a> </div>
+🧰 Tech Stack
+Languages
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/> </div>
+Automation Tools
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40"/> <img src="https://playwright.dev/img/playwright-logo.svg" height="40"/> </div>
+API & Other Tools
+<div> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> </div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=transparent" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=transparent" height="160"/> </div>
+🏗 Recent Projects
+🔹 Playwright Job Scrapers
+Async, fast, Excel export
+Integrated with pagination & reusable Scraper class
+Sites: Boeing, L3Harris, Navair, GD Mission Systems
+🔹 Selenium Java - SauceDemo
+Complete POM
+Full checkout flow
+Robust locators & reusable methods
+🔹 Playwright TypeScript - SauceDemo
+POM architecture
+Shopping cart and checkout coverage
+Cross-browser testing ready
+🎯 My Goal
+
+Growing as a QA Manual/Automation Engineer — always learning, always improving.
+
+
+
+/--
 # 👋 Hi, I'm Samvel!  
 
 ## 💡 Software QA Engineer | Test Automation | Playwright | Selenium 
@@ -31,83 +73,7 @@ QA Manual/Automation Engineer progressing through hands-on projects, new tools, 
 
 💬 Let's connect and collaborate!  
 
-<!--
-<table>
-  <tr>
-    <td valign="top">
-      <h3 align="left">🛠 Languages and Tools:</h3>
-      <table>
-        <tr>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" title="Java"/></td>
-          <td>🟢 🟢 🟢 🟢 ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" title="Python"/></td>
-          <td>🟢 🟢 🟢 ⚪ ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript"/></td>
-          <td>🟢 🟢 🟢 ⚪ ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" title="Postman"/></td>
-          <td>🟢 🟢 🟢 🟢 ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="30" height="30" title="CSS"/></td>
-          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="30" height="30" title="HTML"/></td>
-          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top">
-      <h3 align="left">📚 Frameworks:</h3>
-      <table>
-        <tr>
-          <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="30" height="30" title="Selenium"/></td>
-          <td>🟢 🟢 🟢 🟢 ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://media.licdn.com/dms/image/v2/D5612AQFeUcKQu3LICg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721876592322?e=2147483647&v=beta&t=8Z-dMuFDmPsdNMVLvqDgbqtxAeEz4GWwHcaQQxLTzlc" alt="Playwright" width="30" height="30" title="Playwright"/></td>
-          <td>🟢 🟢 🟢 ⚪ ⚪</td>
-        </tr>
-      </table>
-    </td>
-    <td valign="top">
-      <h3 align="left">🔎 Testing Skills:</h3>
-      <table>
-        <tr>
-          <td><img src="https://static.vecteezy.com/system/resources/previews/015/337/689/non_2x/web-icon-web-sign-free-png.png" width="40" height="40" title="Web Testing"/></td>
-          <td>🟢 🟢 🟢 🟢 🟢</td>
-        </tr>
-        <tr>
-          <td><img src="https://tse2.mm.bing.net/th?id=OIP.ARb9cDARSeZHjlMtKX6xbAHaHa&pid=Api&P=0&h=220" width="40" height="40" title="API Testing"/></td>
-          <td>🟢 🟢 🟢 🟢 ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://cdn-icons-png.flaticon.com/512/4477/4477610.png" width="40" height="40" title="Mobile Testing"/></td>
-          <td>🟢 🟢 ⚪ ⚪ ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://cdn-icons-png.flaticon.com/512/6747/6747196.png" width="40" height="40" title="Documentation"/></td>
-          <td>🟢 🟢 🟢 🟢 ⚪</td>
-        </tr>
-        <tr>
-          <td><img src="https://cdn-icons-png.freepik.com/256/8367/8367019.png?semt=ais_hybrid" width="40" height="40" title="Test Case Design"/></td>
-          <td>🟢 🟢 🟢 🟢 🟢</td>
-        </tr>
-        <tr>
-          <td><img src="https://cdn3.iconfinder.com/data/icons/presentation-flat-line/280/Presentation_flat_line_comp-04-512.png" width="40" height="40" title="Bug Reporting"/></td>
-          <td>🟢 🟢 🟢 🟢 🟢</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
--->
+
 <h3 align="left">You can contact me with:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/samvel-melikyan-qa/">
@@ -116,4 +82,7 @@ QA Manual/Automation Engineer progressing through hands-on projects, new tools, 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" title="Telegram"/></a>
   <a href="mailto:samvel.melikyan.eng@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="52" height="40" alt="Email" title="Email"/></a>
+  <a href="https://samvel-melikyan-cv.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="52" height="40" alt="Porfolio" title="Portfolio"/></a>
 </div>
+--/
